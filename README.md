@@ -10,13 +10,11 @@ For this analysis, W. Avy requested information about temperature trends before 
 
 Shown below are the summary statistics for the June and December temperature, respectively.
 
-<img width="166" alt="JuneTemps" src="./Resources/JuneTemps.png">
-<img width="200" alt="DecemberTemps" src="./Resources/DecemberTemps.png">
+<img width="166" alt="JuneTemps" src="./Resources/JuneTemps.png"> <img width="200" alt="DecemberTemps" src="./Resources/DecemberTemps.png">
 
 ## Summary:
 From looking at the temperatures for a hot month (June) and a cold month (December), it seems that the temperature of the island doesn't vary very much, and that the surf and ice cream shop should not be hindered by temperature, regardless of the time of year. Within our Hawaii data, we have precipitation mesurements. We can also look at the summary statistics for the June and December months. 
 
 Shown below are the summary statistics for June and December precipitation, respectively. 
 
-<img width="172" alt="JunePrecip" src="./Resources/JunePrecip.png">
-<img width="200" alt="DecemberPrecip" src="./Resources/DecPrecip.png">
+<img width="172" alt="JunePrecip" src="./Resources/JunePrecip.png"> <img width="200" alt="DecemberPrecip" src="./Resources/DecPrecip.png">
